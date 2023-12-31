@@ -1,0 +1,56 @@
+.diller{
+  border: 3px solid black;
+  border-radius: 40px;
+  width: 200px;
+  padding: 30px;
+  background-color:rgb(107, 124, 107);
+}
+h2{
+  width: 600px;
+  height: 100px;
+  border-radius: 50px;
+  text-align: center;
+}
+
+
+.oyun{
+  border: 3px solid black;
+  border-radius: 40px;
+  width: 500px;
+  background-color:rgb(107, 124, 107);
+  padding: 30px;
+}
+/*a{
+  background-color: rgb(123, 116, 116);
+  color: black;
+  border-radius:100px ;
+  text-decoration-line: none;
+  font-weight: bold;
+  border: 2px double black;
+  padding:5px;
+ 
+  
+}*/
+body{
+  background-color: darkgray;
+}
+.container {
+  position: fixed;
+  top:10%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 850px;
+  padding: 50px;
+}
+#tasklisthead{
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+.Gorevitem{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+input{
+  font-size: x-large;
+  height: 80px;
+
+}
